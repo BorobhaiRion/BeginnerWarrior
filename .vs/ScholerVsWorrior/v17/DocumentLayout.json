@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ScholerVsWorrior\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18DB5ECD-B82F-58CC-D498-7DEEB6A0C50A}|Assembly-CSharp.csproj|D:\\ScholerVsWorrior\\assets\\scripts\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DB5ECD-B82F-58CC-D498-7DEEB6A0C50A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DB5ECD-B82F-58CC-D498-7DEEB6A0C50A}|Assembly-CSharp.csproj|d:\\scholervsworrior\\assets\\scripts\\loginmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DB5ECD-B82F-58CC-D498-7DEEB6A0C50A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\loginmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DB5ECD-B82F-58CC-D498-7DEEB6A0C50A}|Assembly-CSharp.csproj|D:\\ScholerVsWorrior\\assets\\scripts\\panelcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DB5ECD-B82F-58CC-D498-7DEEB6A0C50A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\panelcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DB5ECD-B82F-58CC-D498-7DEEB6A0C50A}|Assembly-CSharp.csproj|D:\\ScholerVsWorrior\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DB5ECD-B82F-58CC-D498-7DEEB6A0C50A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DB5ECD-B82F-58CC-D498-7DEEB6A0C50A}|Assembly-CSharp.csproj|D:\\ScholerVsWorrior\\assets\\scripts\\adminuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DB5ECD-B82F-58CC-D498-7DEEB6A0C50A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\adminuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DB5ECD-B82F-58CC-D498-7DEEB6A0C50A}|Assembly-CSharp.csproj|D:\\ScholerVsWorrior\\assets\\scripts\\adminscoreinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DB5ECD-B82F-58CC-D498-7DEEB6A0C50A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\adminscoreinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DB5ECD-B82F-58CC-D498-7DEEB6A0C50A}|Assembly-CSharp.csproj|D:\\ScholerVsWorrior\\assets\\scripts\\deathscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DB5ECD-B82F-58CC-D498-7DEEB6A0C50A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\deathscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DB5ECD-B82F-58CC-D498-7DEEB6A0C50A}|Assembly-CSharp.csproj|D:\\ScholerVsWorrior\\assets\\scripts\\admingame manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DB5ECD-B82F-58CC-D498-7DEEB6A0C50A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\admingame manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DB5ECD-B82F-58CC-D498-7DEEB6A0C50A}|Assembly-CSharp.csproj|D:\\ScholerVsWorrior\\assets\\scripts\\signupmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DB5ECD-B82F-58CC-D498-7DEEB6A0C50A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\signupmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DB5ECD-B82F-58CC-D498-7DEEB6A0C50A}|Assembly-CSharp.csproj|D:\\ScholerVsWorrior\\assets\\scripts\\playerpagemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DB5ECD-B82F-58CC-D498-7DEEB6A0C50A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerpagemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DB5ECD-B82F-58CC-D498-7DEEB6A0C50A}|Assembly-CSharp.csproj|D:\\ScholerVsWorrior\\assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DB5ECD-B82F-58CC-D498-7DEEB6A0C50A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "panelControl.cs",
+              "DocumentMoniker": "D:\\ScholerVsWorrior\\Assets\\Scripts\\panelControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\panelControl.cs",
+              "ToolTip": "D:\\ScholerVsWorrior\\Assets\\Scripts\\panelControl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\panelControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T19:37:34.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "enemy.cs",
+              "DocumentMoniker": "D:\\ScholerVsWorrior\\Assets\\Scripts\\enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\enemy.cs",
+              "ToolTip": "D:\\ScholerVsWorrior\\Assets\\Scripts\\enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\enemy.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T03:50:45.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\ScholerVsWorrior\\Assets\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
+              "ToolTip": "D:\\ScholerVsWorrior\\Assets\\Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwA0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T03:48:03.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlayerPageManager.cs",
+              "DocumentMoniker": "D:\\ScholerVsWorrior\\Assets\\Scripts\\PlayerPageManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerPageManager.cs",
+              "ToolTip": "D:\\ScholerVsWorrior\\Assets\\Scripts\\PlayerPageManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerPageManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T17:03:18.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeathScript.cs",
+              "DocumentMoniker": "D:\\ScholerVsWorrior\\Assets\\Scripts\\DeathScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DeathScript.cs",
+              "ToolTip": "D:\\ScholerVsWorrior\\Assets\\Scripts\\DeathScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DeathScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T17:02:39.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminGame manager.cs",
+              "DocumentMoniker": "D:\\ScholerVsWorrior\\Assets\\Scripts\\AdminGame manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AdminGame manager.cs",
+              "ToolTip": "D:\\ScholerVsWorrior\\Assets\\Scripts\\AdminGame manager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AdminGame manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T16:48:58.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminUserInfo.cs",
+              "DocumentMoniker": "D:\\ScholerVsWorrior\\Assets\\Scripts\\AdminUserInfo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AdminUserInfo.cs",
+              "ToolTip": "D:\\ScholerVsWorrior\\Assets\\Scripts\\AdminUserInfo.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AdminUserInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T14:32:20.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatabaseManager.cs",
+              "DocumentMoniker": "D:\\ScholerVsWorrior\\Assets\\Scripts\\DatabaseManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DatabaseManager.cs",
+              "ToolTip": "D:\\ScholerVsWorrior\\Assets\\Scripts\\DatabaseManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DatabaseManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T14:31:06.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SignupManager.cs",
+              "DocumentMoniker": "D:\\ScholerVsWorrior\\Assets\\Scripts\\SignupManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SignupManager.cs",
+              "ToolTip": "D:\\ScholerVsWorrior\\Assets\\Scripts\\SignupManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SignupManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T14:29:50.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminScoreInfo.cs",
+              "DocumentMoniker": "D:\\ScholerVsWorrior\\Assets\\Scripts\\AdminScoreInfo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AdminScoreInfo.cs",
+              "ToolTip": "D:\\ScholerVsWorrior\\Assets\\Scripts\\AdminScoreInfo.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AdminScoreInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T12:55:52.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginManager.cs",
+              "DocumentMoniker": "D:\\ScholerVsWorrior\\Assets\\Scripts\\LoginManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LoginManager.cs",
+              "ToolTip": "D:\\ScholerVsWorrior\\Assets\\Scripts\\LoginManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LoginManager.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwC0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T11:12:48.504Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
